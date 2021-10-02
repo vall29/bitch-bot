@@ -1,3 +1,6 @@
+///SCRIPT ORI BY: Dcode-Denpa
+///SCRIPT RECODE BY: YuzzuKamiyaka
+///SCRIPT INI CUMA NGERECODE DARI: YuzzuKamiyaka
 const
 	{
 	    WAConnection: _WAConnection,
