@@ -1,29 +1,31 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/76629978?v=4" alt="Dcode-Denpa " width="300" />
+<img src="https://i.ibb.co/X8KQvM0/dnsnew.jpg" alt="Yuzzu" width="300" />
 
-# DCODE DENPA
+# Fajar Alfarizi
 
 >
 >
 >
 </div>
 <p align="center">
-  <a href="https://instagram.com/dcodedenpa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/6285866295942"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/mhmdfjralfarizi_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/6281333782061"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/dcode-denpa/bitch-boot
+> git clone https://github.com/Tersakiti404-cyber/bitch-bot
 > cd bitch-bot
+> npm install terminal-kit
 > bash install.sh
 > npm start/node index.js
 ```
 ## CARA INSTALL DI LAPTOP
 ```bash
-> git clone https://github.com/dcode-denpa/bitch-boot
+> git clone https://github.com/Tersakiti404-cyber/bitch-bot
 > cd bitch-bot
+> npm install terminal-kit
 > npm i
 > npm start/node index.js
 ```
@@ -37,6 +39,6 @@
   # MAKASIH LORT
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`MhankBarBar`](https://github.com/MhankBarBar)
-* [`YuzzuKamiyaka`](https://github.com/YuzzuKamiyaka)
+* [`Dcode-denpa`](https://github.com/dcode-denpa)
   
   
