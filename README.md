@@ -40,5 +40,5 @@
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`MhankBarBar`](https://github.com/MhankBarBar)
 * [`Dcode-denpa`](https://github.com/dcode-denpa)
-  
+* [`Dcode-denpa`](https://github.com/YuzzuKamiyaka)
   
