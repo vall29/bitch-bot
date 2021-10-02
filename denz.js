@@ -1,6 +1,3 @@
-///SCRIPT ORI BY: Dcode-Denpa
-///SCRIPT RECODE BY: YuzzuKamiyaka
-///SCRIPT INI CUMA NGERECODE DARI: YuzzuKamiyaka
 const
 	{
 	    WAConnection: _WAConnection,
@@ -1830,7 +1827,7 @@ break
   │◦➛Script Recode : 
   │◦➛https://github.com/YuzzuKamiyaka/bitch-bot
   │◦➛Script Recode² : 
-  │◦➛https://github.com/Tersakiti404-cyber/bitch-boot
+  │◦➛https://github.com/Tersakiti404-cyber/bitch-bot
   └──────────────────❒`
 const buttons = [{buttonId: `menu`, buttonText: {displayText: 'BACK➡️'}, type: 1},{buttonId: `owner`, buttonText: {displayText: 'OWNER👤'}, type: 1}]
 const buttonMessage = {
